@@ -147,7 +147,7 @@ nav {
   font-size: 2rem;
   border-radius: 0.4rem;
   padding: 2rem;
-  background-color: #e23d3d;
+  background-color: rgb(146, 146, 28);
   color: #fafafa;
   outline: 0;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
@@ -155,7 +155,7 @@ nav {
 }
 
 .btn:hover {
-  background-color: #f84848;
+  background-color: goldenrod;
   cursor: pointer;
 }
 .btn:active {
@@ -236,7 +236,7 @@ nav {
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.19), 0 16px 16px rgba(0, 0, 0, 0.23);
 }
 #our-service {
-  background-color: #ee6f57;
+  background-color: rgb(103, 223, 103);
 }
 .bars {
   height: max-content;
@@ -278,7 +278,7 @@ nav {
   font-size: 2.3rem;
 }
 #benefits {
-  background-color: #f84848;
+  background-color: rgb(157, 196, 99);
 }
 #benefits iframe {
   outline: 0;
@@ -288,7 +288,7 @@ nav {
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.19), 0 16px 16px rgba(0, 0, 0, 0.23);
 }
 #contact {
-  background-color: #cb3737;
+  background-color: rgb(55, 85, 11);
   color: #fafafa;
 }
 #contact h6 {
@@ -314,13 +314,13 @@ input[type="email"] {
 }
 footer {
   font-size: 1.4rem;
-  background-color: #ce2f2f;
+  background-color:  white;
   text-align: center;
   padding: 2rem;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
   color: #fafafa;
 }
 footer a {
-  color: #e3e3e3;
+  color: black;
   text-decoration: none;
 }
